@@ -15,6 +15,7 @@ const UserList = () => {
     { email: "kim@gmail.com", name: "김종국" },
     { email: "haha@gmail.com", name: "하하" },
     { email: "song@gmail.com", name: "송지효" },
+    { email: "test@gmail.com", name: "test" },
   ];
 
   return (
